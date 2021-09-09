@@ -5,7 +5,7 @@ return (
  <div>
  <div>
  <h1 className={s.header}> Заголовок про покемонов </h1>
- <p> параграф </p>
+ <p> Какой-то параграф </p>
 </div>
 </div>
 

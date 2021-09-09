@@ -8,7 +8,7 @@ return (
         <article>
             <div class="title">
             <img src={bg} />
-                <h3>{props.title}</h3>
+                <h3>{props.title} </h3>
                 <span class="separator"></span>
             </div>
             <div class="desc full">
